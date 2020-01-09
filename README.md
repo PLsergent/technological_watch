@@ -1,6 +1,6 @@
-# Marp CLI example
+# Technologocal watch
 
-**The good starter example for using [Marp] via [Marp CLI].**
+**Based on [Marp] via [Marp CLI].**
 
 - Write your slide deck by [Marp] Markdown.
 - Manage the content of slides via Git. (Using [GitPitch](https://gitpitch.com/) style `PITCHME.md`)
@@ -41,24 +41,6 @@ In the moment, deploying from public repository to GitHub Pages requires setting
 3. Go to **"Settings"** tab in forked repository, and select **"Secrets"** from sidebar.
 4. Add a new secret **"ACCESS_TOKEN"** with the value of generated token.
 5. Turn on GitHub Actions in forked repository from **"Actions"** tab.
-
-Marp slide deck generated from [`PITCHME.md`](PITCHME.md) will be published to `https://<your-name>.github.io/<repository-name>`.
-
-> :warning: Please notice the slide deck hosted with GitHub Pages will be made public even if you forked this to private repository.
-
-### <img src="https://www.netlify.com/img/press/logos/logomark.svg" width="24" height="24" valign="bottom" /> [Netlify]
-
-Push **"Deploy to netlify"** button. [Netlify] will create your repository based on this example and host website from `master` branch automatically.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yhatt/marp-cli-example)
-
-### <img src="https://assets.zeit.co/image/upload/front/assets/design/now-black.svg" width="24" height="24" valign="bottom" /> [ZEIT Now][now]
-
-Push **"Deploy"** button. [ZEIT Now][now] can choose to create your repository into GitHub / GitLab based on this example, or just to try publishing slide deck in your without fork.
-
-[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/yhatt/marp-cli-example)
-
-> :information_source: The auto-generated open graph image is not available in deployment through ZEIT Now.
 
 ## How to write
 

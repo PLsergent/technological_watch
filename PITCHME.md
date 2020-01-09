@@ -1,34 +1,32 @@
 ---
 marp: true
-title: Marp CLI example
-description: Hosting Marp slide deck on the web
-theme: uncover
+title: Docker TW - Pierre-Louis Sergent
+theme: gaia
 paginate: true
-_paginate: false
+footer: Pierre-Louis Sergent
 ---
 
-![bg](./assets/gradient.jpg)
-
-# <!--fit--> Marp CLI example
-
-Hosting Marp slide deck on the web
-
-https://github.com/yhatt/marp-cli-example
-
-<style scoped>a { color: #eee; }</style>
+![bg](./assets/docker.jpg)
 
 ---
 
 ![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)
+### Made with love using (quick intro)
 
 ---
 
-![bg](#123)
-![](#fff)
+![bg right 70%](https://icongr.am/octicons/mark-github.svg)
 
-##### <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) + [GitHub Pages](https://github.com/pages) | [Netlify](https://www.netlify.com/) | [ZEIT Now](https://zeit.co/now)
+# <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) + [GitHub Pages](https://github.com/pages)
 
-##### <!--fit--> 👉 The easiest way to host<br />your Marp deck on the web
+- Basé sur Markdown
+- Mise en forme (code...)
+- Facile à mettre en place
+- Hosting avec GitHub
+- Original
+
+[![Last commit on GitHub h:1.6em](https://img.shields.io/github/last-commit/plsergent/technological_watch)](https://github.com/plsergent/technological_watch)
+[![Fork on GitHub h:1.6em](https://img.shields.io/github/forks/yhatt/marp-cli-example?label=Fork&style=social)](https://github.com/yhatt/marp-cli-example)
 
 ---
 
