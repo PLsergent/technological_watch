@@ -1,4 +1,4 @@
-# Technologocal watch
+# Technological watch
 
 **Based on [Marp] via [Marp CLI].**
 
