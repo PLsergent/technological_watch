@@ -89,8 +89,8 @@ auto-scaling : true
 # Getting started
 - Installer **docker** et **docker-compose** (on verra ça plus tard)
 - Deux commandes à connaître :
-    - ```docker build```
-    - ```docker run```
+    - `docker build`
+    - `docker run`
 
 ---
 
@@ -117,8 +117,8 @@ CMD [ "app.py" ]
 
 ### Ensuite :
 
-```docker build -t flask-tutorial:latest .```
-```docker run -d -p 5000:5000 flask-tutorial```
+`docker build -t flask-tutorial:latest .`
+`docker run -d -p 5000:5000 flask-tutorial`
 
 ## Et bim ça tourne sur le port 5000
 
@@ -167,7 +167,7 @@ services:
 
 ---
 
-```docker compose up```
+`docker compose up`
 --
 
 - Lance les conteneurs du fichier
